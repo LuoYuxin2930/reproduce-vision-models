@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vision Model Reproduction"
+  short_description: "Assess and reproduce vision models"
+  default_prompt: "Use $vision-model-reproduction to identify candidate visual models for this task, assess reproduction feasibility, and produce a structured report."
